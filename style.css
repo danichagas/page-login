@@ -97,6 +97,11 @@
     color: var(--black);
     font-weight: normal;
     margin-left: 6px;
+    transition: color 0.5s;
+  }
+
+  .link a:hover {
+    color: var(--blue-hover);
   }
 
   .right {
