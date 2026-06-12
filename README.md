@@ -6,7 +6,7 @@ Uma interface moderna, responsiva e clean para sistemas de autenticação (Sign 
 
 ## Demonstração
 
-| Tela de Login (Minha Conta) | Tela de Registro (Nova Conta) |
+| Tela de Login (Minha Conta) | Tela de Cadastro (Nova Conta) |
 | :---: | :---: |
 | ![Minha Conta](assets/sign-in.png) | ![Nova Conta](assets/sign-up.png) |
 
